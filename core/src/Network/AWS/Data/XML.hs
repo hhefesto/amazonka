@@ -16,8 +16,10 @@
 --
 module Network.AWS.Data.XML where
 
+import           Data.Bifunctor              (bimap, first)
 import           Data.Conduit
 import           Data.Conduit.Lazy           (lazyConsume)
+import           Data.Maybe
 import           Data.XML.Types              (Event (..))
 
 import           GHC.Exts
