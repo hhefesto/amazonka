@@ -19,7 +19,6 @@ import           Control.Monad
 import           Data.Aeson
 import           Data.Aeson.Types            (parseEither)
 import           Data.Maybe
-import           Data.Monoid
 
 import           Network.AWS.Data.ByteString
 import           Network.AWS.Data.Headers

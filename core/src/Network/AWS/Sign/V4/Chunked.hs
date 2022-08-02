@@ -27,7 +27,6 @@ module Network.AWS.Sign.V4.Chunked
 import Data.ByteString.Builder
 import Data.Conduit
 import Data.Maybe
-import Data.Monoid
 
 import Network.AWS.Data.Body
 import Network.AWS.Data.ByteString

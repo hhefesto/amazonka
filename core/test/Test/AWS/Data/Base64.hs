@@ -10,7 +10,6 @@
 --
 module Test.AWS.Data.Base64 (tests) where
 
-import           Data.Monoid
 import           Data.String
 import           Network.AWS.Prelude
 import           Network.HTTP.Types

@@ -40,7 +40,6 @@ import Control.Monad.Trans.Resource
 
 import Data.Aeson
 import Data.Conduit
-import Data.Monoid
 import Data.Proxy
 import Data.Text    (Text)
 

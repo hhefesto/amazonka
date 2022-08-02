@@ -15,7 +15,6 @@ import qualified Data.CaseInsensitive           as CI
 import qualified Data.List                      as List
 import           Data.List.Ordered              (subset)
 import           Data.Maybe                     (isJust)
-import           Data.Monoid                    ((<>))
 import qualified Data.Text                      as Text
 import qualified Network.AWS.Data.Query         as Query
 import           Network.AWS.Sign.V2Header.Base

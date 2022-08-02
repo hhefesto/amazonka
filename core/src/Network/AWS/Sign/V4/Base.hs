@@ -22,7 +22,6 @@ module Network.AWS.Sign.V4.Base where
 import           Data.Bifunctor
 import           Data.Function               (on)
 import           Data.List                   (nubBy, sortBy)
-import           Data.Monoid
 
 import           GHC.TypeLits
 

@@ -18,7 +18,6 @@ module Network.AWS.Sign.V2Header
     ( v2Header
     ) where
 
-import           Data.Monoid
 import           Data.Time
 import           Network.AWS.Data.Body
 import           Network.AWS.Data.ByteString

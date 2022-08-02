@@ -15,7 +15,6 @@ module Test.AWS.Sign.V4.Chunked (tests) where
 import Prelude hiding (elem)
 
 import Data.List   (sort)
-import Data.Monoid
 import Data.String
 
 import Network.AWS.Lens    ((%~), (&), (.~))
