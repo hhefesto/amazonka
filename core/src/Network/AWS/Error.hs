@@ -13,12 +13,8 @@
 --
 module Network.AWS.Error where
 
-import           Control.Applicative
-import           Control.Monad
-
 import           Data.Aeson
 import           Data.Aeson.Types            (parseEither)
-import           Data.Maybe
 
 import           Network.AWS.Data.ByteString
 import           Network.AWS.Data.Headers

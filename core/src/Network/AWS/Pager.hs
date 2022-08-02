@@ -16,7 +16,6 @@ module Network.AWS.Pager
     , choice
     ) where
 
-import           Control.Applicative
 import           Data.HashMap.Strict   (HashMap)
 import qualified Data.HashMap.Strict   as Map
 import           Data.Maybe            (isJust, fromMaybe)

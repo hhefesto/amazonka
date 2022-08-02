@@ -34,7 +34,6 @@ module Network.AWS.Data.Time
     , POSIX
     ) where
 
-import           Control.Applicative
 import           Control.DeepSeq
 import           Data.Aeson
 import qualified Data.Aeson.Types            as Aeson

@@ -14,7 +14,6 @@
 module Network.AWS.Data.Numeric where
 
 import           Control.DeepSeq
-import           Control.Monad
 import           Data.Aeson.Types
 import           Data.Data                   (Data, Typeable)
 import           Data.Hashable

@@ -15,7 +15,6 @@ module Network.AWS.Data.Base64
     , _Base64
     ) where
 
-import           Control.Applicative         (pure)
 import           Control.DeepSeq
 import           Data.Aeson.Types
 import qualified Data.Attoparsec.Text        as AText

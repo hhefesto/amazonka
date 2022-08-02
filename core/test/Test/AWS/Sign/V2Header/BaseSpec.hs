@@ -8,7 +8,6 @@
 --
 module Test.AWS.Sign.V2Header.BaseSpec (tests) where
 
-import           Control.Applicative
 import           Data.ByteString                (ByteString)
 import qualified Data.ByteString.Char8          as BS8
 import qualified Data.CaseInsensitive           as CI

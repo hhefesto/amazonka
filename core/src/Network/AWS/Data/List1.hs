@@ -16,7 +16,6 @@
 module Network.AWS.Data.List1 where
 
 import           Control.DeepSeq
-import           Control.Monad
 import           Data.Aeson
 import           Data.Coerce
 import           Data.Data            (Data, Typeable)

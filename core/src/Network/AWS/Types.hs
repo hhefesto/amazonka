@@ -126,7 +126,6 @@ module Network.AWS.Types
     , _Default
     ) where
 
-import Control.Applicative
 import Control.Concurrent           (ThreadId)
 import Control.DeepSeq
 import Control.Exception
