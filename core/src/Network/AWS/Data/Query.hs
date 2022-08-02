@@ -27,8 +27,6 @@ import qualified Data.ByteString.Lazy        as LBS
 import           Data.Data
 import           Data.List                   (sort)
 import           Data.Maybe                  (fromMaybe)
-import           Data.Monoid                 (Monoid)
-import           Data.Semigroup              (Semigroup, (<>))
 import           Data.String
 import qualified Data.Text.Encoding          as Text
 import           GHC.Exts

@@ -31,8 +31,6 @@ module Network.AWS.Data.Path
 
 import qualified Data.ByteString             as BS
 import qualified Data.ByteString.Char8       as BS8
-import           Data.Monoid                 (Monoid)
-import           Data.Semigroup              (Semigroup, (<>))
 import           Network.AWS.Data.ByteString
 import           Network.AWS.Data.Text
 import           Network.HTTP.Types.URI
