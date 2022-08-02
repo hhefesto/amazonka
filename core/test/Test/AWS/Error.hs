@@ -14,7 +14,6 @@ module Test.AWS.Error (tests) where
 import qualified Data.ByteString.Char8    as BS8
 import qualified Data.Foldable            as Fold
 import           Data.List                (sort)
-import           Data.Monoid
 import           Data.String
 import qualified Data.Text                as Text
 import qualified Data.Text.Encoding       as Text
